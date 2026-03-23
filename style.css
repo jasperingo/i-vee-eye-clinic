@@ -2079,19 +2079,6 @@ select.mobile-device {
     line-height: 1 !important;
 }
 
-#preloader {
-    width: 100%;
-    height: 100%;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background: #fff;
-    z-index: 11000;
-    position: fixed;
-    display: block
-}
-
 
 /*------------------------------------------------------------------
     BUTTONS
@@ -2136,4 +2123,8 @@ select.mobile-device {
 .btn-light:focus {
     border-color: rgba(255, 255, 255, 0.6);
     color: rgba(255, 255, 255, 0.6);
+}
+
+.typewrite > .wrap { 
+    border-right: 0.08em solid #fff
 }
