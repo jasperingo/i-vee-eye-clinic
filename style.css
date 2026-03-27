@@ -2129,3 +2129,6 @@ select.mobile-device {
     border-right: 0.08em solid #ffffff;
 }
 
+.mb-5 {
+    margin-bottom: 3rem;
+}

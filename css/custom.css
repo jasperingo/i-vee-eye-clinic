@@ -903,14 +903,7 @@ body.clinic_version .footer .widget-title h3 {
     float: left;
     width: 100%;
 }
-.girl-with-lap {
-    float: left;
-    width: 100%;
-    background: linear-gradient(to right, #1d86df 0%, #39b49a 100%);
-    margin-bottom: 75px;
-    margin-top: -20px;
-    color: #fff;
-}
+
 .aboutus-cont {
 	text-align:center;
 }
