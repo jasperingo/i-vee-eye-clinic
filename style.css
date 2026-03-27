@@ -2126,5 +2126,6 @@ select.mobile-device {
 }
 
 .typewrite > .wrap { 
-    border-right: 0.08em solid #fff
+    border-right: 0.08em solid #ffffff;
 }
+
