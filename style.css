@@ -766,7 +766,9 @@ li.social-links a {
 }
 
 .testimonial img {
-    max-width: 55px;
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
 }
 
 .testimonial small {
