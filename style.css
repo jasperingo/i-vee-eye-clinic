@@ -1084,6 +1084,21 @@ li.social-links a {
     margin: 0;
 }
 
+.service-widget img.cover-image {
+    max-height: 250px;
+    object-fit: cover;
+}
+
+.service-widget img.cover-image2 {
+    max-height: 350px;
+    object-fit: cover;
+}
+
+.service-widget img.cover-image-fixed {
+    height: 180px;
+    object-fit: cover;
+}
+
 .service-widget h3 a,
 .section.wb .service-widget h3,
 .section.lb .service-widget h3 {
@@ -2141,6 +2156,7 @@ select.mobile-device {
 .typewrite > .wrap { 
     border-right: 0.08em solid #ffffff;
 }
+
 
 @media (min-width: 992px) {
     .mb-md-5 {
