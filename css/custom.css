@@ -217,7 +217,7 @@ body.clinic_version .first-section h2 {
     float: left;
     width: 100%;
     min-height: 350px;
-    margin-top: -350px;
+    /* margin-top: -350px; */
     padding: 50px;
     color: #fff;
     position: relative;
@@ -996,9 +996,6 @@ header {
     box-shadow: 0 20px 40px -40px #000;
     top: 0;
     z-index: 999;
-}
-#home.first-section {
-    margin-top: 0;
 }
 .navbar-brand img {
     width: 165px;

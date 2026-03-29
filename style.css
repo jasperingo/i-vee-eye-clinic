@@ -1063,6 +1063,19 @@ li.social-links a {
 /*------------------------------------------------------------------
     MESSAGE BOXES
 -------------------------------------------------------------------*/
+#getintouch .service-widget img {
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.service-widget a {
+    color: #000000;
+    padding: 4px;
+    display: block;
+    text-align: center;
+}
 
 .service-widget h3 {
     font-size: 21px;
@@ -2129,6 +2142,12 @@ select.mobile-device {
     border-right: 0.08em solid #ffffff;
 }
 
-.mb-5 {
-    margin-bottom: 3rem;
+@media (min-width: 992px) {
+    .mb-md-5 {
+        margin-bottom: 3rem;
+    }
+
+    #home > .container {
+        margin-top: 150px;
+    }
 }
