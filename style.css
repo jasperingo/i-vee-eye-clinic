@@ -2159,6 +2159,10 @@ select.mobile-device {
     border-right: 0.08em solid #ffffff;
 }
 
+.team-img-fixed {
+    height: 500px;
+    margin: auto;
+}
 
 @media (min-width: 992px) {
     .mb-md-5 {
