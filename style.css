@@ -1092,7 +1092,7 @@ li.social-links a {
 }
 
 .service-widget img.cover-image2 {
-    max-height: 350px;
+    height: 300px;
     object-fit: cover;
 }
 

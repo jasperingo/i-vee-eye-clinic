@@ -60,6 +60,8 @@ header {
     background-image:url('../images/clinic/clinic-01.jpeg');
 }
 #home > .white-bg {
+    top: 0;
+    left: 0;
     position: absolute;
     width: 100%;
     min-height: 650px;
