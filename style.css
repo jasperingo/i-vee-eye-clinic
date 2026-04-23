@@ -2164,6 +2164,10 @@ select.mobile-device {
     margin: auto;
 }
 
+.mb-5 {
+    margin-bottom: 3rem;
+}
+
 @media (min-width: 992px) {
     .mb-md-5 {
         margin-bottom: 3rem;
